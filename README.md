@@ -30,6 +30,6 @@ Para gerar a versão web: `npm run build`. Para preparar Android: `npx cap add a
 - [x] Tela de boas-vindas após o login.
 - [x] CSS básico e layout responsivo.
 - [x] Compilação web verificada com `npm run build`.
-- [ ] Configurar as chaves do seu projeto Supabase em `.env`.
-- [ ] Executar `supabase/schema.sql` no SQL Editor do seu projeto.
-- [ ] Confirmar o cadastro pelo e-mail, se a confirmação estiver ativada.
+- [x] Configurar as chaves do seu projeto Supabase em `.env`.
+- [x] Executar `supabase/schema.sql` no SQL Editor do seu projeto.
+- [x] Confirmar o cadastro pelo e-mail, se a confirmação estiver ativada.
